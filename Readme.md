@@ -26,7 +26,7 @@ Fungsi yang dikembangkan mencakup:
 
 Berikut adalah konten penjelasan fungsi R yang telah dikembangkan beserta penjelasan hasil analisisnya:
 
-[![Watch Video](https://img.shields.io/badge/Tonton_Video_Demo-red?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/1QhXLBm2ZNdTN2Gd-2I-RD3YN0Vi0woW7/view?usp=sharing)
+[![Watch Video](https://img.shields.io/badge/Klik_Untuk_Tonton_Video-red?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/1QhXLBm2ZNdTN2Gd-2I-RD3YN0Vi0woW7/view?usp=sharing)
 
 _(Klik gambar di atas untuk menonton video)_
 
@@ -110,3 +110,4 @@ Mata Kuliah: **Komputasi Statistika** - **Institut Teknologi Sumatera (ITERA)**
 ---
 
 _© 2025 Data Science ITERA. All Rights Reserved._
+
