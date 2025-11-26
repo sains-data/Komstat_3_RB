@@ -22,11 +22,11 @@ Fungsi yang dikembangkan mencakup:
 
 ---
 
-## 🎥 Video Demonstrasi
+## 🎥 Video 
 
-Berikut adalah demonstrasi penggunaan fungsi R yang telah dikembangkan beserta penjelasan hasil analisisnya:
+Berikut adalah konten penjelasan fungsi R yang telah dikembangkan beserta penjelasan hasil analisisnya:
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID_DISINI/maxresdefault.jpg)](<(https://drive.google.com/file/d/1QhXLBm2ZNdTN2Gd-2I-RD3YN0Vi0woW7/view?usp=drive_link)>)
+[![Watch Video](https://img.shields.io/badge/Tonton_Video_Demo-red?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/1QhXLBm2ZNdTN2Gd-2I-RD3YN0Vi0woW7/view?usp=sharing)
 
 _(Klik gambar di atas untuk menonton video)_
 
@@ -93,7 +93,8 @@ Hasil Bootstrap Validation menunjukkan nilai **Coefficient of Variation (CV) seb
 ## 📚 Referensi & Jurnal Terkait
 
 Project ini disusun dengan mengacu pada studi literatur dan jurnal pada tautan berikut:
-**https://drive.google.com/drive/folders/1BsT6DBLwP5IhEMD0efNfGqOxfS5zcrOW?usp=drive_link**
+### 🔗 [Referensi yang digunakan](https://drive.google.com/drive/folders/1BsT6DBLwP5IhEMD0efNfGqOxfS5zcrOW?usp=drive_link)
+
 
 ---
 
